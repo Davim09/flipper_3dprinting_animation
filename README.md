@@ -22,4 +22,6 @@ You can customize the levels at which the animation appears, So re-upload the "m
 
 <img loading="lazy" src="https://raw.githubusercontent.com/Davim09/flipper_3dprinting_animation/main/Screenshot_149.png" width="870" height="500"/>
 
+#Remember!
+
 The "L1_3dprinting_128x64_png" folder is for you compile with the flipper firmware, it contains the .png of each frame, remeber to remove "_png" of the folder name to compile it
